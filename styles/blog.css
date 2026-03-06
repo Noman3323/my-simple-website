@@ -1,9 +1,10 @@
 div{
-    background-color: #f0f0f0;
+    background-color: #17c4f0;
     padding: 20px;
     border-radius: 5px;
+    margin: 10px;
 }
 h1 {
-    color: #f10c0c;
+    color: #c72828;
     font-family: Arial, sans-serif;
 }
